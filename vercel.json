@@ -1,0 +1,10 @@
+{
+  "rootDirectory": "game-3d",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": null,
+  "git": {
+    "lfs": true
+  }
+}
