@@ -1,0 +1,12 @@
+node_modules/
+src/
+public/
+.DS_Store
+*.ts
+*.tsx
+tsconfig.json
+vite.config.ts
+package.json
+package-lock.json
+TEST_SPEC.md
+TEST_SPEC_V2.md
