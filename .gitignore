@@ -13,12 +13,6 @@ Thumbs.db
 # IDE
 .vscode/
 
-# GLB models (too large for GitHub, 23-30MB each)
-*.glb
-
-# Video assets (large)
-*.mp4
-
 # Logs
 *.log
 npm-debug.log*
